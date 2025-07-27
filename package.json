@@ -1,0 +1,20 @@
+{
+  "name": "moviebox-downloader",
+  "version": "1.0.0",
+  "description": "A simple API to fetch download links using TMDb ID.",
+  "main": "movie.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node movie.js"
+  },
+  "keywords": [
+    "tmdb",
+    "movie-downloader",
+    "api",
+  ],
+  "author": "YourNameHere",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
